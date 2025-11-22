@@ -1,6 +1,5 @@
 #pragma once
 #include <string>
-
 namespace Modelo {
 
     // Niveles de urgencia (1 es lo más grave)
